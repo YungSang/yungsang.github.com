@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://yungsang.github.com/blog/2013/02/11/hello-world/</loc>
+        <lastmod>2013-02-11T12:51:19-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yungsang.github.com/blog/archives/</loc>
+        <lastmod>2013-02-11T12:51:19-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yungsang.github.com/</loc>
+        <lastmod>2013-02-11T12:51:19-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yungsang.github.com/robots.txt</loc>
+        <lastmod>2013-02-11T12:15:54-08:00</lastmod>
+    </url>
+</urlset>
